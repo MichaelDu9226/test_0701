@@ -1,0 +1,4 @@
+FILE=/MichaelDu9226/test_0701/master/binFiles/app.0.0.5.bin
+INTERVAL=0
+VERSION=0.0.5
+SIZE=2269984
